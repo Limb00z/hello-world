@@ -10,7 +10,7 @@ function App() {
         <h1>HELLO WORLD</h1>
 
         <p>
-          Iniciando os estudos de React
+          Iniciando os estudos de <span>React</span>
         </p>
         
       </header>
